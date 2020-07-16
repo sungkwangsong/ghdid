@@ -4,47 +4,47 @@
   "publicKey": [
     {
       "type": "OpenPgpVerificationKey2019",
-      "id": "did:github:sungkwangsong#iBE5x5YF-KTUTGnwU4TPil_2AnBp0O1i24Uoh7w0MdQ",
+      "id": "did:github:sungkwangsong#iO1gyQtqPS8TJtLSbapZV5tTNrdMV6E_T9cQs2ZQhuE",
       "controller": "did:github:sungkwangsong",
-      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.10.4\r\nComment: https://openpgpjs.org\r\n\r\nxk8EXwHhGBMFK4EEAAoCAwSKjGQykS7H1oKcjZI043HSh11GeoxX06FgDTJP\r\nCWt/AiJl2gfeBP2k871k+3pZpQkaCOiBkO3tJb0S7j50BzGxzRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsJ4BBATCAAgBQJfAeEYBgsJBwgDAgQVCAoCBBYC\r\nAQACGQECGwMCHgEACgkQTrpWNRtSA7I23QEA+mDPBTBDcgCuu8nwBxBdieWr\r\nXYOw8603L03LH6eXvJgA/3+k7X4fU8Np+W113T2BhvxMj6+OtKVfdzBRqWYj\r\nd9XIzlMEXwHhGBIFK4EEAAoCAwShyFuApXhsNLuTYY/TSSbx2UAefD0Yrfnp\r\nuPY04pZLkYBSf3oyNFPPzZpXejK95smqJv39k28c/FvZb60FF49eAwEIB8Jh\r\nBBgTCAAJBQJfAeEYAhsMAAoJEE66VjUbUgOyXOUA/0/rbu1s39316C9Fi+pm\r\n0w4zBUQgu67TA8BYIbe6eM/dAQDpeCmteqbZD04B/7Y1+zgPtvbjjvqnCPBp\r\n5owLOEhmPQ==\r\n=C+lh\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
+      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.10.6\r\nComment: https://openpgpjs.org\r\n\r\nxk8EXw/2exMFK4EEAAoCAwRQcOwq2dNHP7pWkN231yLKkma5MT7dCWEaMtEB\r\ntlNlUmWh8UUXzFUOIXtMU2eMJaSSCFY6j6DR3AtR4TmGZovVzRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsKPBBATCAAgBQJfD/Z7BgsJBwgDAgQVCAoCBBYC\r\nAQACGQECGwMCHgEAIQkQIk1H/P69PYsWIQQK+QIGKX90GDZCoI8iTUf8/r09\r\niwfRAQDLNRA1WZvLPLXXLCJqvE0N1gScdYL9nS5Zvala6WjGcAD8DVDHbyiE\r\nr6Ta4WKJJjhCAO06CDczCzD0wIgTgTiMvBjOUwRfD/Z7EgUrgQQACgIDBFvw\r\nL0mpzRr0xEIwrfBiM55EITNYc/VCxECwRNPKKamL8wdQUOPyYMPf/RdbvtIY\r\n1o892E596a+SvZ4LgdFJ1dwDAQgHwngEGBMIAAkFAl8P9nsCGwwAIQkQIk1H\r\n/P69PYsWIQQK+QIGKX90GDZCoI8iTUf8/r09i21RAQD4a8cid+pAh16hugN8\r\nNBVjOLp8qFFf1ewxBSEbbb51XAEA7hb9IClm756NXDrvevAN7YlXgpK9t5D6\r\ndYzUIJhrEhA=\r\n=lngO\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
     },
     {
       "type": "OpenPgpVerificationKey2019",
-      "id": "did:github:sungkwangsong#D509mULWVstIF2irMPsf0DFKrsn2p7AXSemrzWRnbPY",
+      "id": "did:github:sungkwangsong#SQbOiqD3FLg-SWzCb2WkdADfhg_300-SIQY9lO8OoJo",
       "controller": "did:github:sungkwangsong",
-      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.10.4\r\nComment: https://openpgpjs.org\r\n\r\nxk8EXwHhGBMFK4EEAAoCAwSJQ44PZZYIK5v2q6vbC+ZzajPBhH2tvWwqF3zn\r\nQEpsbN+4JJpEMoxStOq0K0lsS1U043fPWge7tllBpfa0dhVizRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsJ4BBATCAAgBQJfAeEYBgsJBwgDAgQVCAoCBBYC\r\nAQACGQECGwMCHgEACgkQjTl5J0BZv/+tQgD/ZJ5fSDIDXX2VZDYN/7srVAwv\r\nB7t2CeKk33Qkp7u4yr4BAPOiEqvuB2RnLp3yrkkf9hg9sbyQN+CrYkonFk+M\r\ncVAzzlMEXwHhGBIFK4EEAAoCAwRXxnJeP0r9U8dow+wWCiJj38UkdohdJD3T\r\nmF65kHW7OKCnk9Wnv9ByzrzW7u5xbIdpvU6oY7zDWyJy96ivdMEKAwEIB8Jh\r\nBBgTCAAJBQJfAeEYAhsMAAoJEI05eSdAWb//FHEBAOOURqMYW0FSwBxg1kpW\r\nnVtX7JjMQAis4WP7TdJQ2BAjAQCaX9GgTbVPjeu5mCOFvm5sApxS2dMfUaN4\r\nJahUtjQBtg==\r\n=dgbi\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
+      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.10.6\r\nComment: https://openpgpjs.org\r\n\r\nxk8EXw/2exMFK4EEAAoCAwRjDr/+h8nPK6+esszXlEHgcJRkf+/Uu4+P5Qx4\r\nz5yFC589ybasJWraCfYDqSdFhoEbEbEgqgyhd6WemDoutY5+zRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsKPBBATCAAgBQJfD/Z7BgsJBwgDAgQVCAoCBBYC\r\nAQACGQECGwMCHgEAIQkQqUtsAu9QiiAWIQSWeqwXUlc2iFohETqpS2wC71CK\r\nIKvzAP0W7YXM0kvqdPOkhp299k3l4+8XZTZg6GhQDreA7UatYgD+PvffAru6\r\ndYr0YZK6eK1nWL5Ph5fLbfLgVutXEaniY/bOUwRfD/Z7EgUrgQQACgIDBGgg\r\n2SCfJDyre35aPsbQwsSfGai9zDdeEh+3LVEzAg1CWOspHG6bw+9mQ8axFjLb\r\nnZK7SHGM4M5zLPw7LgHe7WMDAQgHwngEGBMIAAkFAl8P9nsCGwwAIQkQqUts\r\nAu9QiiAWIQSWeqwXUlc2iFohETqpS2wC71CKIJ3HAP9HtgnMxAbWj0f0zjY9\r\neECO0YqE2IFtmdxw7slWe0V3UwEA9e42qSTa73BZLAjJTWHVaEN3sWzfj6L2\r\nUjIa57ZVj4M=\r\n=GBDX\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
     },
     {
       "type": "Ed25519VerificationKey2018",
-      "id": "did:github:sungkwangsong#_yPhHJG2Hgrs6LpldsufIPlrPJFPZ5oikZkEa_7XR0E",
+      "id": "did:github:sungkwangsong#TemKgEeqyjERceZGyJ6K4otgF_GcDUvCpFAMY-YFSTM",
       "controller": "did:github:sungkwangsong",
-      "publicKeyBase58": "3EX9Kb1ur85A2soaExx6VPdUFg5fbyVzmXuxrDaP5Ko3"
+      "publicKeyBase58": "4dbc2fTQf1FS7TYjGqVBnhgKnhjAr4acNG6WyHLyGWGh"
     }
   ],
   "authentication": [],
   "service": [],
   "capabilityDelegation": [
-    "did:github:sungkwangsong#_yPhHJG2Hgrs6LpldsufIPlrPJFPZ5oikZkEa_7XR0E"
+    "did:github:sungkwangsong#TemKgEeqyjERceZGyJ6K4otgF_GcDUvCpFAMY-YFSTM"
   ],
   "capabilityInvocation": [
-    "did:github:sungkwangsong#_yPhHJG2Hgrs6LpldsufIPlrPJFPZ5oikZkEa_7XR0E"
+    "did:github:sungkwangsong#TemKgEeqyjERceZGyJ6K4otgF_GcDUvCpFAMY-YFSTM"
   ],
   "assertionMethod": [
-    "did:github:sungkwangsong#_yPhHJG2Hgrs6LpldsufIPlrPJFPZ5oikZkEa_7XR0E"
+    "did:github:sungkwangsong#TemKgEeqyjERceZGyJ6K4otgF_GcDUvCpFAMY-YFSTM"
   ],
   "keyAgreement": [
     {
-      "id": "did:github:sungkwangsong#zC3R88iN48bUtbEZSV5xoKRi1MT96aYfrFbWNRJatuwGX2",
+      "id": "did:github:sungkwangsong#zC6Rdgja1DLLMTwyYJNwtn4MTiKUBSEpJVw7krRU28NZec",
       "type": "X25519KeyAgreementKey2019",
       "controller": "did:github:sungkwangsong",
-      "publicKeyBase58": "3vQRMBEwDjcA8WU2gUEMGYL4CsHcyyEkhd5PTW6Wq2Qp"
+      "publicKeyBase58": "6vuyNPC1xb52qvZqyTKouBnR5CNUg7h13ETpaPDjGKYQ"
     }
   ],
   "proof": {
     "type": "Ed25519Signature2018",
-    "created": "2020-07-05T14:18:00Z",
-    "verificationMethod": "did:github:sungkwangsong#_yPhHJG2Hgrs6LpldsufIPlrPJFPZ5oikZkEa_7XR0E",
+    "created": "2020-07-16T06:40:59Z",
+    "verificationMethod": "did:github:sungkwangsong#TemKgEeqyjERceZGyJ6K4otgF_GcDUvCpFAMY-YFSTM",
     "proofPurpose": "assertionMethod",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..yR5ZfQYly2w723GlfsiQatDgstXtD0a0Dy6jiFqQkk0ND6TChhOfskzrsVZ5teLRS5127dItNGCUN64OxUJoCw"
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..ngyZEA5JW2ShbMIsJtGizcWPRxHORh7GEpXQAcEZ-N7Dq0sMyu-tpyXJDxD3PwqEDhESjUwDb7-pUnXjqcGEDA"
   }
 }
